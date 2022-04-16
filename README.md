@@ -1,6 +1,6 @@
 ###
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/szenk)](https://github.com/JaeSeoKim/badge42)
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl21pvvay004909l1ajoz03lu/stats?cursusId=21&coalitionId=10" alt="szenk's 42 stats" /></a>
 
 <!--
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=szenk)](https://github.com/szenk)
